@@ -1,0 +1,13 @@
+C:\Users\cupca\source\repos\Math operations\obj\Debug\netcoreapp3.1\Math operations.csprojAssemblyReference.cache
+C:\Users\cupca\source\repos\Math operations\obj\Debug\netcoreapp3.1\Math operations.AssemblyInfoInputs.cache
+C:\Users\cupca\source\repos\Math operations\obj\Debug\netcoreapp3.1\Math operations.AssemblyInfo.cs
+C:\Users\cupca\source\repos\Math operations\obj\Debug\netcoreapp3.1\Math operations.csproj.CoreCompileInputs.cache
+C:\Users\cupca\source\repos\Math operations\bin\Debug\netcoreapp3.1\Math operations.exe
+C:\Users\cupca\source\repos\Math operations\bin\Debug\netcoreapp3.1\Math operations.deps.json
+C:\Users\cupca\source\repos\Math operations\bin\Debug\netcoreapp3.1\Math operations.runtimeconfig.json
+C:\Users\cupca\source\repos\Math operations\bin\Debug\netcoreapp3.1\Math operations.runtimeconfig.dev.json
+C:\Users\cupca\source\repos\Math operations\bin\Debug\netcoreapp3.1\Math operations.dll
+C:\Users\cupca\source\repos\Math operations\bin\Debug\netcoreapp3.1\Math operations.pdb
+C:\Users\cupca\source\repos\Math operations\obj\Debug\netcoreapp3.1\Math operations.dll
+C:\Users\cupca\source\repos\Math operations\obj\Debug\netcoreapp3.1\Math operations.pdb
+C:\Users\cupca\source\repos\Math operations\obj\Debug\netcoreapp3.1\Math operations.genruntimeconfig.cache
